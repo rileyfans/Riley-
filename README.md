@@ -1,49 +1,71 @@
-# Communicate using Markdown
+# 🌟 RileyFans – The Charity Connection
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_A platform created with heart by Riley Reid to unite fans, loved ones, and global communities in support of meaningful change._
 
-## Welcome
+## 💖 About RileyFans
 
-GitHub is about more than code. It's a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you've completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
+**RileyFans** is a charity-driven application designed to inspire giving, build emotional connections, and create a ripple effect of kindness across the world. Founded by **Riley Reid**, this platform allows her fans and loved ones to take part in real-world impact — not through words alone, but through direct support of the causes that matter most.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: Use Markdown to add lists, images, and links in a comment or text file.
-- **What you'll build**: We'll update a plain text file and add Markdown formatting, and you can use this file to start your own GitHub Pages site.
-- **Prerequisites**: In this course you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
-- **How long**: This course takes less than one hour to complete.
-
-In this course, you will:
-
-1. Add headers
-2. Add an image
-3. Add a code example
-4. Make a task list
-5. Merge your pull request
-
-### How to start this course
-
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
-
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=Exercise%3A+Communicate+using+Markdown&visibility=public)
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-- We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-
-If the exercise isn't ready in 20 seconds:
-
-1. After your new repository is created, wait about 20 seconds, then refresh the page.
-2. Follow the step-by-step instructions in the issue created in your repository.
-3. If the page doesn't refresh automatically, please check the [Actions](../../actions) tab.
-   - Check to see if a job is running. Sometimes it simply takes a bit longer.
-   - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
+Riley believes that fame means nothing if it can’t be used for good. With RileyFans, she opens the door for her audience to join her in supporting humanitarian, social, and environmental initiatives worldwide.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 🌍 Our Mission
+
+> “To turn attention into action, and fandom into compassion.”
+
+RileyFans is not just an app — it's a **movement for purpose-driven giving**. Through every click, every share, and every donation, we stand with those in need.
+
+We support charities that align with the values of **equality**, **emergency relief**, **women’s health**, and **mental well-being**.
+
+---
+
+## 🤝 Supported Charities
+
+The RileyFans platform promotes verified charitable organizations, including:
+
+- [UNICEF USA](https://www.unicefusa.org/) – supporting children globally  
+- [Feeding America](https://www.feedingamerica.org/) – ending hunger in the U.S.  
+- [RAINN](https://www.rainn.org/) – supporting survivors of abuse  
+- [Planned Parenthood](https://www.plannedparenthood.org/) – reproductive and sexual health advocacy  
+- [Direct Relief](https://www.directrelief.org/) – providing medical aid worldwide  
+- [GlobalGiving](https://www.globalgiving.org/) – connecting donors to grassroots projects
+
+Each charity listed has been chosen by Riley based on transparency, reach, and impact.
+
+---
+
+## 💌 A Message from Riley
+
+> “This app is personal. I’ve seen what love can do — how a single act of giving can save someone’s life. RileyFans is my gift to you… so we can all give to the world together.”  
+> — *Riley Reid*
+
+---
+
+## 📱 What You Can Do on RileyFans
+
+- Donate directly to trusted organizations
+- View Riley’s featured charity campaigns
+- Share donation challenges with friends and followers
+- Track your impact over time
+- Celebrate milestones in giving with the RileyFans community
+
+---
+
+## 🔒 Transparency & Trust
+
+We partner only with **registered 501(c)(3) nonprofits** and verified global NGOs. Every donation made through the app goes **directly to the organizations** — no middlemen, no hidden fees.
+
+We believe in **ethical tech**, and **emotional honesty**.
+
+---
+
+## 🌹 Thank You
+
+Whether you donate, share, or simply care — you’re part of something bigger. RileyFans was built for **you**. Let’s lift others up, together.
+
+> 💬 “If you can make someone smile, you’ve already made the world better.”
+
+---
+
+&copy; 2025 RileyFans. Built with purpose, powered by love.
