@@ -1,5 +1,9 @@
-# Compiled source #
-###################
+# ==========================================
+# RileyFans – GitHub-Standard .gitignore
+# Full-stack, Secure, Clean
+# ==========================================
+
+# === Compiled Source ===
 *.com
 *.class
 *.dll
@@ -7,10 +11,7 @@
 *.o
 *.so
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
+# === Packages ===
 *.7z
 *.dmg
 *.gz
@@ -19,15 +20,70 @@
 *.rar
 *.tar
 *.zip
+*.tgz
+*.deb
 
-# Logs and databases #
-######################
+# === Logs and Databases ===
 *.log
 *.sql
 *.sqlite
+*.sqlite3
+*.db
+*.db-journal
 
-# OS generated files #
-######################
+# === Build Output ===
+dist/
+build/
+.cache/
+out/
+tmp/
+temp/
+public/assets/
+static/media/
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === Environment Variables ===
+.env
+.env.local
+.env.*.local
+.env.production
+.env.test
+
+# === Python (if used) ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+
+# === TypeScript ===
+*.tsbuildinfo
+
+# === Test Output ===
+coverage/
+test-results/
+.nyc_output/
+cypress/screenshots/
+cypress/videos/
+
+# === Firebase ===
+.firebase/
+firebase-debug.log
+.firebaserc
+
+# === Docker ===
+.docker/
+docker-compose.override.yml
+
+# === OS-Generated Files ===
 .DS_Store
 .DS_Store?
 ._*
@@ -35,3 +91,33 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+desktop.ini
+Icon?
+
+# === IDEs and Editors ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === Custom RileyFans Project Files ===
+/rileyfans-secrets/
+/uploads-temp/
+/dev-dumps/
+*.bak
+*.tmp
+*.orig
+
+# === Security Keys ===
+*.key
+*.pem
+*.crt
+secrets.json
+
+# === GitHub Patches ===
+*.patch
+*.diff
+
+# ==========================================
+# End of RileyFans .gitignore
+# ==========================================
