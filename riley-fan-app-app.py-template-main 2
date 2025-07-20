@@ -1,0 +1,89 @@
+# app.py
+# RileyFans GitIgnore Generator – Python Version
+
+gitignore_content = """
+# ==========================================
+# RileyFans – Python App .gitignore
+# For projects using app.py
+# ==========================================
+
+# === Bytecode and cache ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# === Environment folders ===
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# === Environment variable files ===
+.env
+.env.local
+.env.*.local
+
+# === Logs and database ===
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# === Test output ===
+htmlcov/
+coverage.xml
+.coverage
+.tox/
+nosetests.xml
+.pytest_cache/
+
+# === Distribution / packaging ===
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# === System files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Editor and IDE folders ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Security & Secrets ===
+*.pem
+*.key
+*.crt
+secrets.json
+
+# === Temporary and backup files ===
+*.bak
+*.tmp
+*.orig
+*~
+
+# === Custom RileyFans data dumps ===
+/uploads-temp/
+/rileyfans-secrets/
+/dev-dumps/
+
+# ==========================================
+# End of .gitignore for app.py project
+# ==========================================
+"""
+
+with open(".gitignore", "w") as f:
+    f.write(gitignore_content.strip() + "\n")
+
+print("✅ .gitignore file generated successfully for RileyFans.")
